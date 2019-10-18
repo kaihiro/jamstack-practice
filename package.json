@@ -14,6 +14,7 @@
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
-    "contentful": "^7.10.0"
+    "contentful": "^7.10.0",
+    "dotenv": "^8.2.0"
   }
 }
